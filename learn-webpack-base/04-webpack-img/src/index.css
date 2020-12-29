@@ -1,0 +1,11 @@
+.vue{
+    width:200px;
+    height: 200px;
+    background: url(./vue.jpg) no-repeat 100% 100%;
+}
+
+.ng{
+    width:200px;
+    height: 200px;
+    background: url(./ng.jpg) no-repeat 100% 100%;
+}
